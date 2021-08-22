@@ -1,0 +1,3 @@
+[submodule "components/qPID/qPID"]
+	path = components/qPID/qPID
+	url = git@github.com:akharsa/qPID.git
